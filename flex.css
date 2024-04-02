@@ -1,0 +1,117 @@
+.navbar{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   color: #C6754D;
+   
+}
+
+.butt{
+   display: flex;
+   width:315px;
+height: 47px;
+}
+
+.btn-1{
+width: 140px;
+padding: 8px 40px 8px 40px;
+}
+
+.btn-2{
+   width: 175px;
+height: 47px;
+padding: 8px 40px 8px 40px;
+}
+
+.btn-2 p{
+width: 95px;
+font-family: Montaga;
+font-weight: 400;
+text-align: left;
+color: #000000;
+}
+.btn-1 p{
+width: 60px;
+font-family: Montaga;
+font-weight: 400;
+color: #000000;
+text-align: left;
+
+
+
+}
+.box-1{
+display: flex;
+justify-content: space-between;
+background: #F0CCBB;
+
+padding: 3rem;
+
+
+
+
+}
+.btn-word{
+    width: 171px;
+padding: 14px 24px 14px 24px;
+border-radius: 16px ;
+background: #C6754D;
+
+
+
+}
+ .box-1 h1{
+   width: 749px;
+font-family: Montaga;
+font-size: 80px;
+line-height: 98.56px;
+}
+
+.box-1 p{
+   width: 646px;
+   font-family: Montaga;
+   font-size: 24px;
+   font-weight: 400;
+   line-height: 33.6px;
+   text-align: left;
+   
+
+}
+.box-2 {
+   display: flex;
+  justify-content: space-between;
+padding: 88px;
+ }
+ .box-2 h1{
+   padding: 2px 50px 10px 20px;
+   margin: 10% 2% 10% 2%;
+font-family: Montaga;
+font-size: 40px;
+font-weight: strong;
+color:#000000;
+text-transform: capitalize;
+}
+.box-2 p{
+width: 749px;
+height: 292px;
+font-family: Montaga;
+font-size: 24px;
+font-weight: 400;
+line-height: 1.5;
+text-align: left;
+color:  #231F20;
+}
+.box-3 img{
+   width: 100%;
+}
+
+footer p{
+ 
+font-family: Montaga;
+font-size: 22px;
+font-weight: 400;
+line-height: 30.8px;
+text-align: center;
+
+
+   }
